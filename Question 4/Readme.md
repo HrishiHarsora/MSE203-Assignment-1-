@@ -9,3 +9,7 @@ Q4) Polymer Dynamics Study– Using the provided LAMMPS script, analyze
  b) Compare the MSD results for the two models and discuss which
  polymer exhibits faster molecular motion. Explain the underlying
  reasons for the observed differences in mobility
+
+
+
+Question4.opj is the project file (to be opened in Origin) which includes all the plots
