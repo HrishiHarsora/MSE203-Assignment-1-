@@ -12,3 +12,7 @@
  different temperatures (300 K, 600 K, and 900 K). Analyze the
  resulting stress-strain curves to determine how temperature influences
  the elastic modulus and yield strength.
+
+
+
+Question2.opj is the project file (to be opened in Origin) which includes all the plots
